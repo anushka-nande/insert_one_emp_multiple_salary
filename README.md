@@ -1,0 +1,1 @@
+# insert_one_emp_multiple_salary
